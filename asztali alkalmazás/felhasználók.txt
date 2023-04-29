@@ -1,0 +1,6 @@
+Admin:
+-név: Erwin
+-jelszó: banan
+Alkalmazott:
+-név: furesze01
+-jelszó: furesze01
