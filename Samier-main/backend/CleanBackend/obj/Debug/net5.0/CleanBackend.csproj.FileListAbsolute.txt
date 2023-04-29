@@ -1,0 +1,408 @@
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+C:\Users\kisse\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+C:\Users\Ervin\Desktop\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.json
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+F:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\appsettings.json
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+D:\Klín\backend\CleanBackend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\appsettings.json
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+D:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\appsettings.json
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+F:\Klín\backend\CleanBackend másolata\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\appsettings.json
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+F:\Klín\backend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\appsettings.json
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.exe
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.deps.json
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.json
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.runtimeconfig.dev.json
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.AssemblyReference.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfoInputs.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.AssemblyInfo.cs
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CoreCompileInputs.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\scopedcss\bundle\CleanBackend.styles.css
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Manifest.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\CleanBackend.StaticWebAssets.Pack.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.CleanBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanBackend.props
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanBackend.props
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanBackend.props
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.RazorTargetAssemblyInfo.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.csproj.CopyComplete
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.dll
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\refint\CleanBackend.dll
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.pdb
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\CleanBackend.genruntimeconfig.cache
+D:\Klín\backend\CleanBackend\obj\Debug\net5.0\ref\CleanBackend.dll

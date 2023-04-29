@@ -1,0 +1,32 @@
+﻿<Page x:Class="Clean.Pages.RaktarPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Clean.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1280"
+      Title="RaktarPage">
+
+    <Grid>
+        <DataGrid Name="Raktar_adat" HeadersVisibility="Column" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" Margin="150,0,741,204" SelectionChanged="Raktar_adatai_Changed">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="0.3*" Binding="{Binding RId}"/>
+                <DataGridTextColumn Header="Név" Width="2*" Binding="{Binding Nev}"/>
+                <DataGridTextColumn Header="Mennyiség" Width="*" Binding="{Binding Mennyiseg}"/>
+                <DataGridTextColumn Header="Megjelenés" Width="*" Binding="{Binding Megjelenes}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Név:" HorizontalAlignment="Left" Margin="125,513,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508" Width="115"/>
+        <TextBox Background="#FFDDFAFF" Name="NevText" HorizontalAlignment="Left" Margin="246,519,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" MaxLength="50"/>
+        <Label Content="Mennyiség:" HorizontalAlignment="Left" Margin="711,517,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508" Width="84"/>
+        <TextBox Background="#FFDDFAFF" Name="MennyisegText" HorizontalAlignment="Left" Margin="831,521,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" FontSize="14" MaxLength="9" PreviewTextInput="CsakSzamok"/>
+        <Label Content="Aktív:" HorizontalAlignment="Left" Margin="473,517,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508" Width="49"/>
+        <ComboBox Name="AktivBox" HorizontalAlignment="Left" Margin="594,519,0,0" VerticalAlignment="Top" FontSize="14" Width="34" Background="#FF65C9FF"/>
+        <Button Content="Hozzáad" HorizontalAlignment="Left" Margin="1133,583,0,0" VerticalAlignment="Top" Height="44" Width="83" Click="HozzaadClick" Background="#FF65C9FF"/>
+        <Button Content="Módosítás" HorizontalAlignment="Left" Margin="1045,583,0,0" VerticalAlignment="Top" Height="44" Width="83" Click="ModositasClick" Background="#FF65C9FF"/>
+        <Button Content="Törlés" HorizontalAlignment="Left" Margin="956,583,0,0" VerticalAlignment="Top" Height="44" Width="83" Click="TorlesClick" Background="#FF65C9FF"/>
+        <Button Content="Kép kiválasztása" HorizontalAlignment="Left" Margin="1023,513,0,0" VerticalAlignment="Top" Height="33" Width="127" Click="Button_Click" Background="#FF65C9FF"/>
+        <Image Name="ImageBox" HorizontalAlignment="Left" Height="500" Margin="711,0,0,0" VerticalAlignment="Top" Width="417" Stretch="Fill"/>
+    </Grid>
+</Page>

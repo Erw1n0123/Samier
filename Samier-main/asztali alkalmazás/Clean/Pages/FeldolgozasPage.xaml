@@ -1,0 +1,45 @@
+﻿<Page x:Class="Clean.Pages.FeldolgozasPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Clean.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1280"
+      Title="FeldolgozasPage">
+
+    <Grid>
+        <RichTextBox Background="#FFDDFAFF" Margin="186,260,186,180">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Name="Leiras" Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label Name="DatumLab" Content="datum" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.158,0.329" Width="608" Height="47" FontSize="22"/>
+        <Label Content="Teljes név:" HorizontalAlignment="Left" Margin="210,98,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="TeljesNevText" HorizontalAlignment="Left" Margin="306,102,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="50"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="210,144,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="EmailText" HorizontalAlignment="Left" Margin="306,148,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="100"/>
+        <Label Content="Telefonszám:" HorizontalAlignment="Left" Margin="210,196,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="TelefonszamText" HorizontalAlignment="Left" Margin="306,200,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="11" PreviewTextInput="CsakSzamok"/>
+        <Label Content="Irányítószám:" HorizontalAlignment="Left" Margin="480,98,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="IranyitoszamText" HorizontalAlignment="Left" Margin="570,102,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="4" PreviewTextInput="CsakSzamok"/>
+        <Label Content="Település:" HorizontalAlignment="Left" Margin="480,144,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="TelepulesText" HorizontalAlignment="Left" Margin="570,148,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="50"/>
+        <Label Content="Cím:" HorizontalAlignment="Left" Margin="480,196,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="CimText" HorizontalAlignment="Left" Margin="570,200,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="150"/>
+        <Label Content="Szolgáltatás:" HorizontalAlignment="Left" Margin="778,98,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="SzolgaltatasBox" HorizontalAlignment="Left" Margin="860,100,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Időpont:" HorizontalAlignment="Left" Margin="778,144,0,0" VerticalAlignment="Top"/>
+        <DatePicker Name="IdopontDate" HorizontalAlignment="Left" Margin="860,148,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="IdopontOraBox" HorizontalAlignment="Left" Margin="966,150,0,0" VerticalAlignment="Top" Width="40"/>
+        <Label Content=":" HorizontalAlignment="Left" Margin="1006,146,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="IdopontPercBox" HorizontalAlignment="Left" Margin="1020,150,0,0" VerticalAlignment="Top" Width="40"/>
+        <Label Content="Ár:" HorizontalAlignment="Left" Margin="778,196,0,0" VerticalAlignment="Top"/>
+        <TextBox Background="#FFDDFAFF" Name="ArText" HorizontalAlignment="Left" Margin="860,200,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" MaxLength="9" PreviewTextInput="CsakSzamok"/>
+        <Button Content="Kész" HorizontalAlignment="Left" Margin="576,563,0,0" VerticalAlignment="Top" Height="47" Width="108" Click="KeszClick" Background="#FF65C9FF"/>
+        <Button Content="Kihagyás" HorizontalAlignment="Left" Margin="966,564,0,0" VerticalAlignment="Top" Height="46" Width="108" Click="KihagyasClick" Background="#FF65C9FF"/>
+        <Button Content="Feldolgozhatatlan" HorizontalAlignment="Left" Margin="1118,564,0,0" VerticalAlignment="Top" Height="46" Width="108" Click="FeldolgozhatatlanClick" Background="#FF65C9FF"/>
+    </Grid>
+</Page>
