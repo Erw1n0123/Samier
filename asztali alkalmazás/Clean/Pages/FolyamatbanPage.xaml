@@ -1,0 +1,45 @@
+﻿<Page x:Class="Clean.Pages.FolyamatbanPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Clean.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1280"
+      Title="FolyamatbanPage">
+
+    <Grid Background="#00000000">
+        <DataGrid Name="MunkakFolyamatbanGrid" HeadersVisibility="Column" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" Margin="78,10,78,284" SelectionChanged="MunkakFolyamatbanGrid_SelectionChanged" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="0.4*" Binding="{Binding MunkaId}"/>
+                <DataGridTextColumn Header="Név" Width="2*" Binding="{Binding MunkaTeljesNev}"/>
+                <DataGridTextColumn Header="Email" Width="3*" Binding="{Binding MunkaEmail}"/>
+                <DataGridTextColumn Header="Telefonszám" Width="2*" Binding="{Binding MunkaTelefonszam}"/>
+                <DataGridTextColumn Header="Irányítószám" Width="*" Binding="{Binding MunkaIranyitoszam}"/>
+                <DataGridTextColumn Header="Település" Width="2*" Binding="{Binding MunkaTelepules}"/>
+                <DataGridTextColumn Header="Cím" Width="3*" Binding="{Binding MunkaCim}"/>
+                <DataGridTextColumn Header="Leírás" Width="3*" Binding="{Binding MunkaLeiras}"/>
+                <DataGridTextColumn Header="Ár" Width="2*" Binding="{Binding Ar}"/>
+                <DataGridTextColumn Header="Időpont" Width="2*" Binding="{Binding Idopont}"/>
+                <DataGridTextColumn Header="Szolgáltatás" Width="0.4*" Binding="{Binding SzId}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ListBox Name="DolgozoBox" Margin="86,478,889,64" SelectionChanged="DolgozoBox_SelectionChanged"/>
+        <ComboBox Name="Dolgozok" HorizontalAlignment="Left" Margin="410,478,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Dolgozok_SelectionChanged" Background="#FF65C9FF"/>
+        <Button Name="DolgozoHozzaadas"  Content="Hozzáadás" HorizontalAlignment="Left" Margin="410,534,0,0" VerticalAlignment="Top" Height="36" Width="120" IsEnabled="False" Click="DolgozoHozzaadas_Click" Background="#FF65C9FF"/>
+        <Button Name="DolgozoTorles" Content="Törlés" HorizontalAlignment="Left" Margin="410,602,0,0" VerticalAlignment="Top" Height="34" Width="120" IsEnabled="False" Click="DolgozoTorles_Click" Background="#FF65C9FF"/>
+        <Label Content="A munkát végezte:" HorizontalAlignment="Left" Margin="119,452,0,0" VerticalAlignment="Top" Width="156"/>
+        <ComboBox Name="Eszkozok" HorizontalAlignment="Left" Margin="904,478,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Eszkozok_SelectionChanged" Background="#FF65C9FF"/>
+        <Button Name="EszkozHozzaadas" Content="Hozzáadás" HorizontalAlignment="Left" Margin="943,534,0,0" VerticalAlignment="Top" Height="36" Width="120" IsEnabled="False" Click="EszkozHozzaadas_Click" Background="#FF65C9FF"/>
+        <Button Name="EszkozTorles" Content="Törlés" HorizontalAlignment="Left" Margin="943,602,0,0" VerticalAlignment="Top" Height="34" Width="120" IsEnabled="False" Click="EszkozTorles_Click" Background="#FF65C9FF"/>
+        <Label Content="Elhasznált/Felhasznált eszközök" HorizontalAlignment="Left" Margin="613,452,0,0" VerticalAlignment="Top" Width="189"/>
+        <TextBox Name="EszkozMennyiseg" HorizontalAlignment="Left" Margin="1029,478,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Height="22" Background="#FFDDFAFF" PreviewTextInput="CsakSzamok"/>
+        <Label Content="Mennyiség" HorizontalAlignment="Left" Margin="1029,452,0,0" VerticalAlignment="Top"/>
+        <DataGrid Name="EszkozBox" Margin="580,478,395,64" SelectionChanged="EszkozBox_SelectionChanged"  AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" HeadersVisibility="Column" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Név" Width="1.3*" Binding="{Binding Nev}"/>
+                <DataGridTextColumn Header="Elhaszált Mennyiség" Width="*" Binding="{Binding ElhasznaltDb}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

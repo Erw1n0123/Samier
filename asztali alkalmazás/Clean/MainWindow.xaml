@@ -1,0 +1,40 @@
+﻿<Window x:Class="Clean.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clean"
+        mc:Ignorable="d"
+        Title="Samier Control" Height="720" Width="1280" WindowStartupLocation="CenterScreen" Closing="MainWindow_Closing" ResizeMode="CanMinimize">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="37*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.ColumnSpan="2">
+            <Menu DockPanel.Dock="Left" Background="White">
+                <MenuItem Header="Fájl"/>
+                <MenuItem Header="Munka">
+                    <MenuItem Name="egyeztetendomunka" Header="egyeztetésre vár" IsEnabled="false" Click="Feldolgozas"></MenuItem>
+                    <MenuItem Name="elvegezendomunka" Header="elvégezendő" IsEnabled="false" Click="Folyamatban"></MenuItem>
+                    <MenuItem Name="keszmunka" Header="kész" IsEnabled="false" Click="Munkak"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Felhasználók">
+                    <MenuItem Name="osszfelhasznalo" Header="felhasználók" IsEnabled="False" Click="AllFelhasznalo"></MenuItem>
+                    <MenuItem Name="dolgozofelhasznalo" Header="alkalmazottak" IsEnabled="False" Click="AllDolgozo"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Raktár" Click="Raktar"/>
+                <MenuItem Header="Kilépés" Click="Exit"/>
+            </Menu>
+        </DockPanel>
+        <Frame Name="MainFrame" Margin="0,20,0,0" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2">
+            <Frame.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA8D9FF" Offset="0"/>
+                    <GradientStop Color="White" Offset="0.405"/>
+                </LinearGradientBrush>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>
